@@ -7,7 +7,7 @@ Contents Prepared During The Internship :
    
 3.Use of Natural Language Processing
      
-4.Source Code For Project in VS Code
+4.Source Code For Project In VS Code
  
 5.Prepared Explanatory Video
                      
