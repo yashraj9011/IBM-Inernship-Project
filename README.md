@@ -1,2 +1,6 @@
 # IBM-Inernship-Project
-All Details of Internship done at IBM. Chatbot for Consumer Support using Natural Language Processing.
+Contents Prepared During The Internship :1 Power Point Presentation
+                                         2.Team Management Skills
+                                         3.Use of nlp
+
+                        
