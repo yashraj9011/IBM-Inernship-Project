@@ -1,4 +1,4 @@
-# IBM-Inernship-Project
+# IBM-Internship-Project
 Contents Prepared During The Internship :1 Power Point Presentation
                                          2.Team Management Skills
                                          3.Use of Natural Language Processing
