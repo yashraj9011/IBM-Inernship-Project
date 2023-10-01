@@ -9,9 +9,11 @@ Contents Prepared During The Internship :
      
 4. Source Code For Project In VS Code
  
-5. Prepared Explanatory Video
+5. Link to Explanatory Video : https://youtu.be/XZ964wcfF0c?si=csOtpEXjAYCjyp-W
                      
 6. Internship Under The Guidance Of Industry Mentor
+   
+  
                                          
                                          
                                         
