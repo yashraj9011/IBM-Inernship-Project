@@ -16,8 +16,7 @@ Contents Prepared During The Internship :
 7. Internship Completion Certificate
 
    
-  ![Logo](https://github.com/yashraj9011/IBM-Internship-TEAM-AI16-ENIGMA/blob/main/LGM%20Data%20Science%20certificate.png)                                         
-                                         
+  ![Logo](https://github.com/yashraj9011/IBM-Internship-TEAM-AI16-ENIGMA/blob/main/Web%20capture_6-10-2023_171538_.jpeg)                          
                                         
 
                         
